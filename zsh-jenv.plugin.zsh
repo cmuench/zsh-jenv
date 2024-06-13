@@ -1,8 +1,6 @@
 #!/usr/bin/env zsh
 # shellcheck disable=SC1090
 
-set -x
-
 # See: https://github.com/jenv/jenv
 
 if [ ! -d "$HOME/.jenv" ]; then
