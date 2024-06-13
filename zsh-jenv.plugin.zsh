@@ -11,5 +11,4 @@ PATH="$HOME/.jenv/bin:$PATH"
 
 # Activate jEnv
 eval "$(jenv init -)"
-jenv enable-plugin export
 
